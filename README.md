@@ -61,10 +61,12 @@ You can set this APP as the default SMS APP, which will stop popping up SMS noti
 
 ## User Manual
 
-- [English](https://get.telegram-sms.com/wiki/User_manual)
-- [简体中文](https://get.telegram-sms.com/wiki/用户手册)
-- [繁體中文](https://get.telegram-sms.com/wiki/用戶手冊)
-- [日本語](https://get.telegram-sms.com/wiki/マニュアル)
+- [English](https://telegram-sms.com/user-manual.html)
+- [简体中文](https://telegram-sms.com/zh_cn/user-manual.html)
+- [繁體中文](https://telegram-sms.com/zh_tw/user-manual.html)
+- [日本語](https://telegram-sms.com/ja_jp/user-manual.html)
+- [Español](https://telegram-sms.com/es_es/user-manual.html)
+- [Русский](https://telegram-sms.com/ru_ru/user-manual.html)
 
 ## Licenses
 
